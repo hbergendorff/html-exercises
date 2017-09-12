@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60b181-037a-489e-9017-88a445ce58d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises-3/index.html" afterPath="$PROJECT_DIR$/exercises-3/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises-2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="63">
+              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises-3/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -54,6 +65,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/exercise-1/index.html" />
         <option value="$PROJECT_DIR$/exercises-2/index.html" />
+        <option value="$PROJECT_DIR$/exercises-3/index.html" />
       </list>
     </option>
   </component>
@@ -64,8 +76,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="651" />
-    <option name="y" value="18" />
+    <option name="x" value="551" />
+    <option name="y" value="11" />
     <option name="width" value="1282" />
     <option name="height" value="990" />
   </component>
@@ -100,6 +112,11 @@
               <item name="html-excercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-excercises" type="462c0819:PsiDirectoryNode" />
               <item name="exercises-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises-3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,15 +159,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505199411643</updated>
-      <workItem from="1505199412784" duration="1101000" />
+      <workItem from="1505199412784" duration="4786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1101000" />
+    <option name="totallyTimeSpent" value="4786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="18" width="1282" height="990" extended-state="0" />
+    <frame x="551" y="11" width="1282" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -192,8 +209,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises-2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="63">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises-3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
           <folding />
         </state>
       </provider>
