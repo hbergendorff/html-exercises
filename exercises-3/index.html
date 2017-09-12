@@ -69,18 +69,20 @@
         <td>2007</td>
     </tr>
 </table>
+<br>
+<br>
 
 
 
 <form>
-    <label>First name</label>
-    <input type="text" name="firstName">
+    <label>First name*</label>
+    <input type="text" aria-required="true" name="firstName">
     <br>
-    <label>Last name</label>
-    <input type="text" name="lastName">
+    <label>Last name*</label>
+    <input type="text" aria-required="true" name="lastName">
     <br>
     <label>address</label>
-    <input type="text" name="adress">
+    <input type="text" maxlength="50" name="address">
     <br>
     <label>postnummer</label>
     <input type="text" name="postnumer" >
@@ -88,11 +90,17 @@
     <label>Stad</label>
     <input type="text" name="stad">
     <br>
-    <label>Telefon</label>
-    <input type="text" name="telefon">
+    <label>Telefon*</label>
+    <input type="text" aria-required="true" name="telefon">
     <br>
     <label>Epost</label>
     <input type="text" name="epost">
+    <label>Välj ett alternativ</label>
+    <br>
+    <input type="radio" name="alt">Hämta
+    <input type="radio" name="alt">Leverera
+    <input type="radio" name="alt">Express
+
 
 
 </form>
