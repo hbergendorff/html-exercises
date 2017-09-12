@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60b181-037a-489e-9017-88a445ce58d3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises-3/index.html" afterPath="$PROJECT_DIR$/exercises-3/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises-4/index.html" afterPath="$PROJECT_DIR$/exercises-4/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,17 +18,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercises-3/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="664">
+              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises-4/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
@@ -55,8 +56,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/exercise-1/index.html" />
         <option value="$PROJECT_DIR$/exercises-2/index.html" />
-        <option value="$PROJECT_DIR$/exercises-3/index.html" />
         <option value="$PROJECT_DIR$/exercises-4/index.html" />
+        <option value="$PROJECT_DIR$/exercises-3/index.html" />
       </list>
     </option>
   </component>
@@ -67,8 +68,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="623" />
-    <option name="y" value="30" />
+    <option name="x" value="753" />
+    <option name="y" value="19" />
     <option name="width" value="1282" />
     <option name="height" value="990" />
   </component>
@@ -155,15 +156,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505199411643</updated>
-      <workItem from="1505199412784" duration="8018000" />
+      <workItem from="1505199412784" duration="11357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8018000" />
+    <option name="totallyTimeSpent" value="11357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="623" y="30" width="1282" height="990" extended-state="0" />
+    <frame x="753" y="19" width="1282" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -211,18 +212,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises-3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises-4/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises-3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding />
         </state>
       </provider>
